@@ -1,0 +1,6 @@
+{
+  "name": "QazaqStore — Интернет-магазин",
+  "description": "Мобильный интернет-магазин с каталогом товаров, корзиной, оформлением заказа и уведомлениями в Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
